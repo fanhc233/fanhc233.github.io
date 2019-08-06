@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-04T15:19:34.183Z</updated>
+  <updated>2019-08-06T15:16:11.206Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>first_blog</title>
-    <link href="http://yoursite.com/2019/08/04/first-blog/"/>
-    <id>http://yoursite.com/2019/08/04/first-blog/</id>
-    <published>2019-08-04T15:17:59.000Z</published>
-    <updated>2019-08-04T15:19:34.183Z</updated>
-    
-    <content type="html"><![CDATA[<p>以下就是文章的内容，可以按照Markdown的格式进行排版</p>]]></content>
-    
-    <summary type="html">
-    
-      这里是简单的描述
-    
-    </summary>
-    
-      <category term="ps" scheme="http://yoursite.com/categories/ps/"/>
-    
-    
-      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>

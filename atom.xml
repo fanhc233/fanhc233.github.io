@@ -39,28 +39,6 @@
   </entry>
   
   <entry>
-    <title>first</title>
-    <link href="http://yoursite.com/2019/08/04/first/"/>
-    <id>http://yoursite.com/2019/08/04/first/</id>
-    <published>2019-08-04T14:44:30.000Z</published>
-    <updated>2019-08-06T15:15:35.989Z</updated>
-    
-    <content type="html"><![CDATA[<p>ni hao a a a </p>]]></content>
-    
-    <summary type="html">
-    
-      附加一段文章摘要，字数最好在140字以内，会出现在meta的description里面
-    
-    </summary>
-    
-      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
-    
-    
-      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/2019/08/03/hello-world/"/>
     <id>http://yoursite.com/2019/08/03/hello-world/</id>
